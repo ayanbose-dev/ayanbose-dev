@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Ayan Bose..
+## Hi there👋, I'm Ayan Bose..
 
 I started my journey by mastering frontend and backend development. Beyond the user interface, I enjoy building the backend systems that power applications from clean, maintainable APIs to strong database designs. I’m now mastering Cloud Computing to confidently deploy, scale, and secure full‑stack applications in production environments.
 
