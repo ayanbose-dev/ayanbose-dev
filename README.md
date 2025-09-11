@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Ayan Bose...
-#### Software Engineer | Web Developer
+#### Web Developer |
 ![Software Engineer | Web Developer](https://d33wubrfki0l68.cloudfront.net/8cb110a86e9cf2ef3881be34eb009ec0bdad303d/1488c/static/c9290285e1ece1a8ecf558572cf514cb/a53f1/code.jpg)
 
 I commenced my professional journey by acquiring expertise in both frontend and backend development. In addition to focusing on user interface design, I take pleasure in constructing backend systems that support applications, ranging from well-organized and maintainable APIs to robust database architectures. Currently, I am advancing my knowledge in Cloud Computing to proficiently deploy, scale, and secure full-stack applications within production environments.
